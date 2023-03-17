@@ -5,6 +5,7 @@ import sys
 
 sys.path.append("C:\auto\pytest_course")
 
+
 def main():
     """Run administrative tasks."""
     os.environ.setdefault("DJANGO_SETTINGS_MODULE", "coronavstech.settings")
